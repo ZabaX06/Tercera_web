@@ -1,0 +1,28 @@
+body{
+    background-color: aqua;
+}
+
+h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    text-decoration: underline;
+    color: blueviolet;
+
+}
+
+h2{
+    font-family: cursive;
+    text-align: center;
+}
+
+img{
+    width: 600px;
+    border-radius: 40px;
+}
+
+a{
+    color: rgb(0, 0, 0);
+    background-color: rgb(225, 0, 255);
+    margin: 30px;
+    text-decoration-line: overline;
+}
